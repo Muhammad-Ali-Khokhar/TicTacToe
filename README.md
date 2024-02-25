@@ -4,27 +4,33 @@ Welcome to the Tic Tac Toe App repository! This app allows you to play the class
 
 ## Screens
 
-**Splash Screen:** The app starts with a splash screen displaying the app logo.
+### Splash Screen
+![Splash Screen](Images/Splash Screen.jpg)
+The app starts with a splash screen displaying the app logo.
 
-**Home Screen:** After the splash screen, users are directed to the home screen where they can choose to play against a friend or against the AI.
+### Home Screen
+![Home Screen](Images/Home Screen.jpg)
+After the splash screen, users are directed to the home screen where they can choose to play against a friend or against the AI.
 
-**VsComputer Screen:** If the user chooses to play against the computer, they are taken to this screen where they can make their moves against the AI opponent.
+### VsComputer Screen
+![VsComputer Screen](Images/VsComputer Screen.jpg)
+If the user chooses to play against the computer, they are taken to this screen where they can make their moves against the AI opponent.
 
-**VsHuman Screen:** If the user chooses to play against a friend, they are taken to this screen where they can play against another player on the same device.
+### VsHuman Screen
+![VsHuman Screen](Images/VsHuman Screen.jpg)
+If the user chooses to play against a friend, they are taken to this screen where they can play against another player on the same device.
 
 ## How to Play
 
-**Vs Computer:** Simply tap on the grid cells to make your moves. The computer AI will make its moves automatically, and the game will notify you of the winner or a draw.
+- **Vs Computer**: Simply tap on the grid cells to make your moves. The computer AI will make its moves automatically, and the game will notify you of the winner or a draw.
 
-**Vs Human:** Pass the device between players, tapping on the grid cells to make moves. The game will automatically switch turns between players and notify you of the winner or a draw.
+- **Vs Human**: Pass the device between players, tapping on the grid cells to make moves. The game will automatically switch turns between players and notify you of the winner or a draw.
 
 ## Installation
 
--Clone the repository to your local machine using git clone.
-
--Open the project in Android Studio.
-
--Build and run the app on an Android device or emulator.
+1. Clone the repository to your local machine using `git clone`.
+2. Open the project in Android Studio.
+3. Build and run the app on an Android device or emulator.
 
 ## Contributing
 

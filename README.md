@@ -5,20 +5,24 @@ Welcome to the Tic Tac Toe App repository! This app allows you to play the class
 ## Screens
 
 ### Splash Screen
-![Splash Screen](Images/Splash Screen.jpg)
 The app starts with a splash screen displaying the app logo.
 
+![Splash Screen](https://github.com/Muhammad-Ali-Khokhar/TicTacToe/blob/master/Images/Splash%20Screen.jpg)
+
 ### Home Screen
-![Home Screen](Images/Home Screen.jpg)
 After the splash screen, users are directed to the home screen where they can choose to play against a friend or against the AI.
 
+![Home Screen](https://github.com/Muhammad-Ali-Khokhar/TicTacToe/blob/master/Images/Home%20Screen.jpg)
+
 ### VsComputer Screen
-![VsComputer Screen](Images/VsComputer Screen.jpg)
 If the user chooses to play against the computer, they are taken to this screen where they can make their moves against the AI opponent.
 
+![VsComputer Screen](https://github.com/Muhammad-Ali-Khokhar/TicTacToe/blob/master/Images/VsComputer%20Screen.jpg)
+
 ### VsHuman Screen
-![VsHuman Screen](Images/VsHuman Screen.jpg)
 If the user chooses to play against a friend, they are taken to this screen where they can play against another player on the same device.
+
+![VsHuman Screen](https://github.com/Muhammad-Ali-Khokhar/TicTacToe/blob/master/Images/VsHuman%20Screen.jpg)
 
 ## How to Play
 
